@@ -1,5 +1,11 @@
 REPS Data Downloader Pro
 
+### 📺 Demostración del Proceso
+
+[![Demostración de la Automatización del REPS](https://lh3.googleusercontent.com/pw/AP1GczMzmQWvoAoMQm7F0MrZEUzEe_DVIS0sYyoctfv0g6NRwQco7OIp1cHKN5jnldgnFdNZw2RH1h3P0JJ0B6YKYcdBc8YH88qKrJkqcPc1Tkma6bBi5PFdnbVPX_QoPopKKa27X7mZp56SWx01nBDEwAdIcg=w593-h679-s-no-gm?authuser=0)](https://youtu.be/HoRUFzeIc0U)
+
+Haga clic en la imagen para ver el script en acción.
+
 📝 Descripción del Proyecto
 Este proyecto es una herramienta de automatización robusta diseñada para la extracción masiva y sistemática de los listados oficiales de Prestadores de Servicios de Salud (PSS) habilitados a nivel nacional, directamente desde el portal del Registro Especial de Prestadores de Servicios de Salud (REPS) del Ministerio de Salud y Protección Social de Colombia.
 
